@@ -1,1 +1,2 @@
-#ghghg
+#g
+print("terry")
