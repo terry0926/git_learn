@@ -1,3 +1,4 @@
 print
 print("rry")
-print("grace")
+for i in range(100):
+    pass
